@@ -1,0 +1,2 @@
+import chatdb
+chatdb.chatcheck()
